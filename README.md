@@ -10,4 +10,4 @@ Update to your own servername
 
 Update to your own description
 
-<b>NOTE: Keep the server settings on the two lines. Line one contains the /Script data, and line two contains ALL of the configuration data - NO SPACES between the options, just the comma.  (It=1,Must="hey",Look=1.00000,Like="This can have a space",This=False)
+<b>NOTE: Keep the server settings on the two lines. Line one contains the /Script data, and line two contains ALL of the configuration data - NO SPACES between the options, just the comma.  (It=1,Must="hey",Look=1.00000,Like="This can have a space",This=True)
